@@ -12,3 +12,7 @@ https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode
 
 > [!NOTE]
 > Second part of https://github.com/matheusaraujo/blind-75/
+
+> [!NOTE]
+> Continues on https://github.com/matheusaraujo/neetcode-all
+
